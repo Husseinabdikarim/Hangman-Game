@@ -17,4 +17,6 @@ After selecting English, the player will be prompted to choose the number of pla
 The program throws a FileNotFoundException when the file containing the list of words cannot be found.
 
 # Contributors
-Feel free to contribute to the project by forking it and submitting a pull request. husseinabdikarim18@gmail.com
+Feel free to contribute to the project by forking it and submitting a pull request. 
+husseinabdikarim18@gmail.com
+
